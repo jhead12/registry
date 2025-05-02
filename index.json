@@ -115,5 +115,23 @@
       "project": [],
       "module": []
     }
+  },
+  "v2": {
+    "packages": {
+      "@elizaos/plugin-web3-connector": {
+        "name": "@elizaos/plugin-web3-connector",
+        "description": "A plugin for ElizaOS that provides creative storage solutions using Filecoin and IPFS.",
+        "type": "plugin",
+        "versions": {
+          "1.0.0": {
+            "version": "1.0.0",
+            "runtimeVersion": "1.0.0-beta.27",
+            "platform": "universal",
+            "publishedAt": "2025-05-02T08:55:36.785Z",
+            "published": true
+          }
+        }
+      }
+    }
   }
 }
