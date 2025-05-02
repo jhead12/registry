@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-filecoin",
+  "description": "A plugin for ElizaOS that provides creative storage solutions using Filecoin and IPFS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhead12/elizaos-plugins/plugin-filecoin"
+  },
+  "maintainers": [
+    {
+      "name": "jhead12",
+      "github": "jhead12"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0",
+      "gitBranch": "1.0.0",
+      "gitTag": "v1.0.0",
+      "runtimeVersion": "1.0.0-beta.27",
+      "releaseDate": "2025-05-02T08:49:02.399Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "1.0.0",
+  "latestVersion": "1.0.0",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
